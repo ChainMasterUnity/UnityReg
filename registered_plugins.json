@@ -1,14 +1,4 @@
 [
-  {
-    "id": "pluginhash1",
-    "name": "Plugin Name 1",
-    "author": "Author Name",
-    "version": "1.0"
-  },
-  {
-    "id": "pluginhash2",
-    "name": "Plugin Name 2",
-    "author": "Author Name",
-    "version": "1.2"
-  }
+  { "id": "abc123", "name": "PluginOne", "author": "Noah", "version": "1.0" },
+  ...
 ]
